@@ -1,0 +1,23 @@
+{
+  "name": "angular-webfontloader",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pgorsira/angular-webfontloader",
+  "authors": [
+    "pgorsira <pgorsira@gmail.com>"
+  ],
+  "description": "An AngularJS directive for loading Google web fonts. An event is broadcast when the fonts are successfully loaded, which can be useful when other code is dependent on a web font being loaded first.",
+  "main": "webfontLoader.js",
+  "keywords": [
+    "angular",
+    "fontloader",
+    "webfontloader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
